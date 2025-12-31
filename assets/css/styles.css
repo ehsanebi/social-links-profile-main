@@ -89,10 +89,11 @@ body{
 .social-links a{
     background-color: var(--grey700);
     display: block;
-    padding: 0.75rem clamp(3.12rem,22vw,5.9rem);
+    padding: 0.75rem clamp(3.5rem,22vw,5.9rem);
     border-radius: 10px;
     font-weight: 700;
     font-size: 0.87rem;
+    white-space: nowrap;
 }
 
 .social-links a:hover,
