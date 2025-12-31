@@ -34,10 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: *(Will be added after publishing the repository)*
-- Live Site URL: *(Will be added after deployment)*
-
-## My process
+- Solution URL: https://github.com/ehsanebi/social-links-profile-main.git
+- Live Site URL: https://ehsanebi.github.io/social-links-profile-main/
 
 ### Built with
 
@@ -71,10 +69,6 @@ body {
 }
 
 ```
-
------------
-
-
 
 
 
