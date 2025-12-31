@@ -13,10 +13,14 @@ This is my solution to the [Social links profile challenge on Frontend Mentor](h
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+ 
+
 
 ## Overview
 
 This project is a responsive social links profile page built as part of a Frontend Mentor challenge.
+
+
 
 ### The challenge
 
@@ -66,9 +70,15 @@ body {
   padding: clamp(1.5rem, 8.4vw, 2.5rem);
 }
 
+```
+
+-----------
 
 
-###Continued development
+
+
+
+### Continued development
 
 I plan to continue using logical properties and the clamp() function in future projects.
 I believe these are modern CSS features that will become more common and are essential for building flexible and accessible layouts.
@@ -78,3 +88,5 @@ Useful resources
 ### Useful resources
 
 - (https://youtu.be/cV9JhEV4Ll0?si=jL-aWjiKQWoGyv8S) - This video helped me for learning and understanding Logical Properties. I really liked it and it have lot's of good example.
+
+
